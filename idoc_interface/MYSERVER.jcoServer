@@ -1,0 +1,6 @@
+jco.server.progid=ZUUSRV_JGZ
+jco.server.name=ZUUSRV_JGZ
+jco.server.gwhost=192.168.0.164
+jco.server.gwserv=sapgw01
+jco.server.connection_count=2
+jco.server.repository_destination=SHF
